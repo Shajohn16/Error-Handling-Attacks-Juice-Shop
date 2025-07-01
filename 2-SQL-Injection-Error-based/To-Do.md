@@ -1,5 +1,3 @@
-Absolutely. Below is the **expanded**, **technically rich**, and **offensive-security-oriented** `TODO.md` for:
-
 📁 `Error-Handling-Attacks-Juice-Shop/2-SQL-Injection-Error-based/`
 
 ---
