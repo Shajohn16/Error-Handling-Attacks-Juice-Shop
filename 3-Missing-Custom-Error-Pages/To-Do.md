@@ -1,5 +1,3 @@
-Absolutely. Here's the **technically detailed**, **tactic-rich**, and **offensive-security-oriented** `TODO.md` for:
-
 📁 `Error-Handling-Attacks-Juice-Shop/3-Missing-Custom-Error-Pages/`
 
 ---
