@@ -1,4 +1,3 @@
-Absolutely. Here's the **deep-dive, red-team-grade**, fully **expanded `README.md`** for:
 
 📁 `Error-Handling-Attacks-Juice-Shop/2-SQL-Injection-Error-based/Read-Me.md`
 
