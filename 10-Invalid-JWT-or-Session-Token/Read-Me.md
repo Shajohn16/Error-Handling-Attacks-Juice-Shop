@@ -1,8 +1,5 @@
-Absolutely. Here's a **highly detailed**, **offensive-security-focused**, and **technically rich** expansion of the `README.md` under:
 
 📁 `Error-Handling-Attacks-Juice-Shop/10-Invalid-JWT-or-Session-Token/`
-
-This is crafted to demonstrate **deep technical competence**, **manual exploration**, and a **methodical red team approach**.
 
 ---
 
