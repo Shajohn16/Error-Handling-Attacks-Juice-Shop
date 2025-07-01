@@ -1,5 +1,3 @@
-Here is the **fully expanded**, **technical**, and **offensive security–oriented** `README.md` for:
-
 📁 `Error-Handling-Attacks-Juice-Shop/3-Missing-Custom-Error-Pages/Read-Me.md`
 
 This version is designed to reflect practical red teaming methods, exploit methodology, and real-world security implications.
