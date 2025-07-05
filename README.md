@@ -31,6 +31,7 @@ This project demonstrates the identification and exploitation of poor error hand
 - Implement proper error handling middleware.
 - Avoid exposing stack traces or debug messages in production.
 
-## 📷 Proof
-![Error Message Screenshot](./error-screenshot.png)
+## 🖼️ Proof of Concept Screenshot
+![Error Handling POC](screenshots/Error_Handling_POC.png)
+
 
