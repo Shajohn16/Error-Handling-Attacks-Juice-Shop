@@ -33,3 +33,4 @@ This project demonstrates the identification and exploitation of poor error hand
 
 ## 📷 Proof
 ![Error Message Screenshot](./error-screenshot.png)
+
